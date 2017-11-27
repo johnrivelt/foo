@@ -1,0 +1,10 @@
+{
+    "name": "johnc/foo",
+    "authors": [
+        {
+            "name": "John Cho",
+            "email": "johnc@omniconnect.com.au"
+        }
+    ],
+    "require": {}
+}
